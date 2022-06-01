@@ -53,4 +53,4 @@ function createSentence() {
     return sentence;
 }
 
-document.querySelector("#sentence").addEventListener('click', createSentence());
+document.querySelector('#sentence').addEventListener('click', createSentence);
